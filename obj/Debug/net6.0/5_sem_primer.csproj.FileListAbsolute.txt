@@ -1,0 +1,15 @@
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/bin/Debug/net6.0/5_sem_primer
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/bin/Debug/net6.0/5_sem_primer.deps.json
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/bin/Debug/net6.0/5_sem_primer.runtimeconfig.json
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/bin/Debug/net6.0/5_sem_primer.dll
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/bin/Debug/net6.0/5_sem_primer.pdb
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.csproj.AssemblyReference.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.AssemblyInfoInputs.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.AssemblyInfo.cs
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.csproj.CoreCompileInputs.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.dll
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/refint/5_sem_primer.dll
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.pdb
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/5_sem_primer.genruntimeconfig.cache
+/Volumes/SSD500/Проги/Программирование/Гиг_брейнс/3._Введение_в_программирование/5._Sem_12.11.2022/5_sem_primer/obj/Debug/net6.0/ref/5_sem_primer.dll
